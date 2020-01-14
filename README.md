@@ -1,2 +1,0 @@
-# angularsb
-Created with CodeSandbox
